@@ -1,6 +1,6 @@
-# Angular Crash Course (TodoList)
+#Angular 7
 
-This is the code for the crash course on YouTube
+Simple todo list example
 
 ## Quick Start
 
